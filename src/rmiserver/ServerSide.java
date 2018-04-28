@@ -38,6 +38,8 @@ public class ServerSide {
             //ServerImplementation addObjIsItSkel = new ServerImplementation();
             //sRegistry.rebind("aCalculation", addObjIsItSkel);
         }
+        
+        // random comment line just to test git 
         catch(Exception e)
         {
             e.printStackTrace();
